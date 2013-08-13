@@ -1,0 +1,7 @@
+# Easier navigation: .., ...
+alias ..="cd .."
+alias ...="cd ../.."
+
+# List files
+alias l="ls -l"
+alias ll="ls -al"
