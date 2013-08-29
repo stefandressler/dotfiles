@@ -3,12 +3,13 @@
 ## Similar projects
 
 [Paul Irish's dotfiles](https://github.com/paulirish/dotfiles).
-[Mathias's readme](https://github.com/mathiasbynens/dotfiles/).
+
+[Mathias's dotfiles](https://github.com/mathiasbynens/dotfiles/).
 
 
 ## Overview of files
 
-#### shell environment
+#### Shell environment
 * `.aliases`
 * `.bash_profile`
 * `.bash_prompt`
